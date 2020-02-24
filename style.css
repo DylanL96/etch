@@ -1,0 +1,16 @@
+#btn{
+    position: absolute;
+    bottom: 100px;
+    left: 900px;
+
+}
+
+.container{
+    display: grid;
+    height: 700px;
+
+}
+
+div{
+    border: 1px solid black;
+}
